@@ -50,7 +50,7 @@ I'd love to connect! Feel free to reach out and we can talk about anything and e
 --- 
 
 <p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnyaAven&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnyaAven&layout=compact&theme=vision-friendly-dark&hide=jinja,CSS&size_weight=0.5&count_weight=0.5">
 </p>
 
 <!-- TODO: Add snake game w/ GitHub Actions: https://github.com/Platane/snk--> 
